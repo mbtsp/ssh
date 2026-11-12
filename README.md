@@ -40,3 +40,5 @@ If FTPS fails with `522 SSL connection failed session reuse required`, add these
 
 ![demo](https://github.com/mbtsp/ssh/assets/31949635/33656649-d300-46da-a50e-cb9186ccc2fb)
 
+![Work flow](https://github.com/mbtsp/ssh/blob/main/Workflow%20Orchestration.gif)
+
